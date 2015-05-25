@@ -1,2 +1,2 @@
 # cookbook
-XOOPS Coobook for Webmasters
+XOOPS Cookbook for Webmasters
