@@ -8,11 +8,11 @@
             
 ## User Manual
 
-© 2015 The XOOPS Project (www.xoops.org)    
+© 2015 The XOOPS Project ([www.xoops.org](www.xoops.org))    
 
-## Document Purpose 
+## Module Purpose 
 
-This document is for .....
+This module is for .....
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the XXX Module (Admin side)*
@@ -34,4 +34,4 @@ This document is for .....
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project (www.xoops.org)
+All derivative works are to be attributed to **XOOPS Project ([www.xoops.org](www.xoops.org))**
