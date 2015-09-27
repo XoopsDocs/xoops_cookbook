@@ -1,4 +1,4 @@
-# 1.0 Installation
+# Day 1: Installation
 
 There is a very detailed tutorial showing the whole [**XOOPS Installation process**](https://www.gitbook.com/book/xoops/xoops-installation-guide/), and we highly recommend to review it there.
 
