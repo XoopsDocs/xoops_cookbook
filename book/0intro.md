@@ -112,31 +112,50 @@ There are still some CMS solutions that, moaning about the terrible problems cau
 ### Modular structure
 
 XOOPS is built as a “core” framework that does the basic management job for your site. This core supports the addition of functional modules that do the actual content management. As of today, the XOOPS package still includes a basic catalogue of “official” modules, but plans are on the way to separate core development from module development, and to put in place a qualifying process to endorse well-written modules. Anyway, for the moment there’s dozens of modules available for everything from showing the weather to displaying random quotes, from listing news stories to downloads or links or articles. XOOPS modules are very easily installed and uninstalled, as pertains to true modules, and anyone can create thus in a matter of minutes a very specific, unique combination of modules for a particular site.
+
 ### Very flexible, themable interface
+
 The layout of a XOOPS site can be easily modified in two broad senses: first, the positions of blocks can be easily modified in the available columns; second, the look and feel of the whole structure can be completely changed with a click of the mouse by using a different theme. A site’s administrator can configure a site to look very different, even with the same content. It’s really very easy to move blocks around, to activate/deactivate modules, to switch among themes. It’s even possible to define a site to look different for every kind of visitor. And you can choose among dozens of themes, create your own, adapt a theme built by someone else and even let your users choose among several themes.
+
 ### Smarty template engine
+
 Part of XOOPS flexibility when it comes to look and feel is born from the use of Smarty, defined as a templating engine. What this means for a designer is that it’s quite easy to create an interface of your own and to transform it into a XOOPS theme. Have you ever tried building themes for other solutions? Some of them still have a complex mixture of PHP and HTML in their themes, and, even worse, have themes split in several files so you open a table in a file and close it in another. Try to follow that logic! In XOOPS, a designer works with a complete HTML page, and after she’s satisfied with how it looks and behaves, she can add a few Smarty tags to include dynamic content. In one of this book’s chapters you’ll build a theme of your own and learn how to use Smarty variables.
+
 ### Group based permissions
+
 XOOPS is made to build communities, and in a community you have rules to define who’s in and who’s not. XOOPS includes a member registration system, which let’s you optionally set up parts of your site so only registered members can access them. Those members are included in groups, and XOOPS is built so that you can define the privileges assigned to each group in a very granular matter. For each group you have in your site (the default groups are Webmasters, Registered users and Anonymous users, but you can define as many groups as you want), you can for instance define if the group’s members:
 * can see a particular block
 * can access a particular module
 * have access to a particular function (reading, posting, etc.)
  
 ### User personalization
+
 Since users are always part of groups, does this mean that they’re all alike? Not at all! Each user has her own personality within your site, beginning with the fact that she can set up a password that not even you, as site manager, can know. This means a user’s information within the site is only accessible to the user, provided she remembers her password. A site’s users can also edit a lot of information contained in their user profiles, and if the site’s manager allows it, they can also select their themes, upload their avatars and more.
+
 ### Flexible user management
+
 But if the users have control over their profiles, the site’s administrator has also control over nice tools to manage the user base. It’s possible, for example, to search among users by employing different criteria. It’s also possible to mail users, to send them private messages, and in extreme cases, even to ban obnoxious users.
+
 ### Great search function
+
 XOOPS includes a site-wide search engine that is quite efficient and that provides search results in an orderly fashion: it sorts them by module so it’s very easy to know is a search result appears in a news story, an event, a downloadable file, etc. You can even configure a bit the search parameters.
 ### Nice image manager
 XOOPS includes a tool to manage the images used throughout the site. Although many dream with a more powerful image manager, the truth is that the present one is more than adequate to handle the regular operation of a Web site. You can create image categories, upload images one at a time, configure the heights and widths of the uploadable images, and later you can access the image repository using one of the tools available for the construction of forms. 
+
 ### Multi-byte language support
+
 Not surprisingly, since the original lead developer is Japanese, XOOPS fully supports multi-byte languages, including Japanese, Simplified and Traditional Chinese, Korean, etc. Also, the language seen in the user interface can be easily changed by installing language “packs”. Each language pack is just a set of files that contain language equivalences. This means that the creation of a different language pack is easy enough: you just copy a language folder, open a text file and translate the text strings it contains.
+
 ### World-wide support
+
 XOOPS was created, is being developed and is maintained by an interesting team of many hard-working volunteers that log in the XOOPS community from all over the world. The XOOPS community has more than a dozen official support sites around the globe, which give support to non-English speaking users. And due to its growing popularity, it’s very likely you’ll find some veteran XOOPS user that speaks your language or lives in your time zone any day. And the friendliness of the XOOPS community is almost legendary; just browse around any of the forums to see it in action. One of the Appendixes includes a list of some available communities where you can look for help in case you need it.
+
 ### Distributed development process
+
 Yet another distinctive feature of XOOPS is the fact that its development is not concentrated in a single person, but rather in a team. For some, this is a weakness, yet it might be the best chance to take XOOPS into very solid, very high levels of quality among the open source content management solutions.
+
 ### Vibrant (and demanding) community
+
 Last, but certainly not least, one of XOOPS’ most important assets is its community. Its more than 20 thousand members chat in the forums about every thing imaginable. You can find there comments, complaints, gossip, hacks, suggestions, a few fights but always a strong pulse, the indication of a healthy, vibrant community demanding that XOOPS moves ahead. 
 
 **In December 2015 XOOPS will celebrate its 15 Anniversary. **
