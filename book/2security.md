@@ -65,9 +65,9 @@ For every aspect, make sure you are using the latest version that has been patch
 
 Unless you are planning on hosting your site on your own server, you won't have much to say about this. When you find a host, make sure you understand what your host provides and if you will be on a shared server or a dedicated server.
 
-With your hosting account, you will be given some kind of access to manage your account. Be verycautious will your account information! The administrator username will probably be determined by your host, but you can and should set a secure password for this account. Use a combination of letters (uppercase AND lowercase), numbers and symbols to create your password. Please do not use any word or combine words to create your password, either.
+With your hosting account, you will be given some kind of access to manage your account. Be very cautious with your account information! The administrator username will probably be determined by your host, but you can and should set a secure password for this account. Use a combination of letters (uppercase AND lowercase), numbers and symbols to create your password. Please do not use any word or combine words to create your password, either.
 
-My accounts let me also create passwords for administering the databases, allowing FTP access to the site and the email password for the main account. Be sure you have strong passwords for all those types of access to your account.
+Some accounts let also create passwords for administering the databases, allowing FTP access to the site and the email password for the main account. Be sure you have strong passwords for all those types of access to your account.
 
 While you are looking around the access settings for your site, look at the FTP configuration - you definitely need to disable anonymous access. If you do not, anyone can FTP to your server and gain access to your files and folders.
 
@@ -95,15 +95,17 @@ Some of these can be set using the same .htaccess file for configuring Apache, s
 
 **XOOPS**
 
-When I was looking at which CMS to use, I was impressed by the amount of attention the XOOPS developers paid to security. They have been responsive to any vulnerabilities discovered and released fixes quickly. XOOPS was, and is still, one of the most secure CMS options available. But, you must be using the latest release on your site! And, you must install the latest version of Protector.
+XOOPS developers always paid a lot of attention to security. They have been responsive to any vulnerabilities discovered and released fixes quickly. XOOPS was, and is still, one of the most secure CMS options available. But, you must be using the latest release on your site! And, you must install the latest version of Protector.
 
 Now, there are some things you can do to make your site vulnerable - pick an administrator username and password that are easy to guess and your site will be compromised. You can have the greatest security system in the world for your home, but if you don't lock the door it is only a matter of time before you are broken into.
 
-There is a good article about protecting your database username and password by moving that information out of mainfile.php and out of your web root - this is a good thing to do. There is also another article about protecting the administrator admin login by restricting access to specific IP addresses.
+There is a [good article](http://xoops-tips.tedliu.ca/modules/news/article.php?storyid=9) about protecting the administrator Admin login by restricting access to specific IP addresses.
 
-Other things to do:
-Be sure files and folders have the correct permissions (in the FAQs)
-Make sure there is an index.html in every folder (also in the FAQs)
+**Other things to do:**
+
+Be sure files and folders have the correct permissions (in the [XOOPS FAQs](http://www.xoops.org/modules/smartfaq/faq.php?faqid=82))
+
+Make sure there is an index.html in every folder (also in the XOOPS FAQs)
 
 **Modules**
 
