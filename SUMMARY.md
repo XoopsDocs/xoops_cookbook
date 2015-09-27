@@ -1,12 +1,12 @@
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
-* [Module Credits](book/9credits.md)
+* [Intro: What is XOOPS and what is CMS?](book/0intro.md)
+* [Day 1: Installation](book/1install.md)
+* [Day 2: Security](book/2security.md)
+* [Day 3: Functionality with Modules](book/3modules.md)
+* [Day 4: Beautification with Themes](book/4themes.md)
+* [Day 5: Customization](book/5customization.md)
+* [Day 6: Development](book/6development.md)
+* [Day 7: Troubleshooting](book/7troubleshooting.md)
+* [Credits](book/9credits.md) 
 
