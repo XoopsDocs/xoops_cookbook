@@ -35,3 +35,11 @@ When evaluating modules, read this FAQ - it offers some great advice about selec
 - Blogs
 
 This is not an exhaustive list of content types, but these are the most common. You could have a site with all these modules and more, but you can also have sites with as few as 2 modules.
+
+In the FAQ about selecting modules, you are advised to find modules that are by active XOOPS members, still show signs of further development and work with the current version of Xoops. 
+
+
+One thing to be aware of, and this is for any module that uses WYSIWYG editors - most current browsers block some scripts by default. So, you will find that trying to paste something from the clipboard will only work with keyboard commands, not mouse actions. You may think the editor is not working, but it is actually the browser that is preventing the function from working at all. Firefox has an extension to enable clipboard functions - it is well worth installing.
+
+
+From an administrative standpoint, uninstall any modules you elected not to keep and delete the folders from your web folder. Update the DB backup module and backup your database again.
