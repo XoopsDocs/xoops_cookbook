@@ -27,3 +27,8 @@ Over the years many of XOOPS users have contributed close to 1,000 themes to the
 - [Recent 2-column Themes](https://github.com/XoopsThemes25xArchive-2col)
 - [Recent 3-column Themes](https://github.com/XoopsThemes25xArchive-3col)
 - [Old, Archive themes](https://github.com/XoopsThemesArchive)
+ 
+The Webmaster can use the above themes and modify them, or create new themes from scratch!
+There is an excellent book called "[**Designing for XOOPS**](http://shop.oreilly.com/product/0636920021247.do)" that will be very helpful:
+
+![http://shop.oreilly.com/product/0636920021247.do](http://akamaicovers.oreilly.com/images/0636920021247/cat.gif)
