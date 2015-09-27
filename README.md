@@ -22,8 +22,7 @@
 * [Day 5: Customization](book/5customization.md)
 * [Day 6: Development](book/6development.md)
 * [Day 7: Troubleshooting](book/7troubleshooting.md)
-* [Credits](book/9credits.md)
-* 
+* [Credits](book/9credits.md) 
 
 ##License:
 
