@@ -1,1 +1,1 @@
-# 6.0 Blocks
+# Day 6: Development
