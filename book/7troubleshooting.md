@@ -1,1 +1,1 @@
-# 7.0 Templates
+# Day 7: Troubleshooting
