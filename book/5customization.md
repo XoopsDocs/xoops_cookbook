@@ -1,1 +1,3 @@
-# 5.0 The User Side
+# Day 5: Customization
+Day 6: Development
+Day 7: Troubleshooting
