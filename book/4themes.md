@@ -1,1 +1,1 @@
-# 4.0 Operating Instructions
+# Day 4: Beautification with Themes
