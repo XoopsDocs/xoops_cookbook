@@ -21,7 +21,7 @@ For hacks, there are several good sources on the XOOPS Website:
 
 Due to the very modular architecture of XOOPS, the Webmasters can switch to different existing themes, or they can developed their own
 
-Over the years
+Over the years many of XOOPS users have contributed close to 1,000 themes to the XOOPS community:
 
 - [Current Themes](https://github.com/XoopsThemes)
 - [Recent 2-column Themes](https://github.com/XoopsThemes25xArchive-2col)
