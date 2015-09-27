@@ -26,4 +26,4 @@ Over the years many of XOOPS users have contributed close to 1,000 themes to the
 - [Current Themes](https://github.com/XoopsThemes)
 - [Recent 2-column Themes](https://github.com/XoopsThemes25xArchive-2col)
 - [Recent 3-column Themes](https://github.com/XoopsThemes25xArchive-3col)
-- [Old, obsolete themes](https://github.com/XoopsThemesArchive)
+- [Old, Archive themes](https://github.com/XoopsThemesArchive)
