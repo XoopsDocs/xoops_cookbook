@@ -1,1 +1,1 @@
-# Day 3 Extend Functionality with Modules
+# Day 3: Extend Functionality with Modules
