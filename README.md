@@ -2,32 +2,27 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # XOOPS Cookbook for Webmasters
-#### for XOOPS 2.5.7
-      
-![logoModule.png](assets/logoModule.png)
-            
-## User Manual
+#### How to start a new Website using XOOPS in 1 hour, 
+#### & learn how to master it in 7 days?
+<br /><br /><br />
+
+
+
 
 © 2015 The XOOPS Project ([www.xoops.org](www.xoops.org))    
 
-## Module Purpose 
-
-This module is for .....
-
-![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
-* [Module Credits](book/9credits.md)
+* [Intro: What is XOOPS and what is CMS?](book/0intro.md)
+* [Day 1: Installation](book/1install.md)
+* [Day 2: Security](book/2security.md)
+* [Day 3: Functionality with Modules](book/3preferences.md)
+* [Day 4: Beautification with Themes](book/4operations.md)
+* [Day 5: Customization](book/5userside.md)
+* [Day 6: Development](book/6blocks.md)
+* [Day 7: Troubleshooting](book/7templates.md)
+* [Credits](book/9credits.md)
 * 
 
 ##License:
