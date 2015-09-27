@@ -34,8 +34,9 @@ Visit some of the theme demo sites and preview lots of themes. Download ones you
 
 There are lots of great examples of XOOPS Themes available, just check out some of them...
 - Xoops Theme Library
-- News - XOOPS Themes
-- Xoops Showcase
+- XOOPS Themes on GitHub
+- Angelo Rocha
+- RedMexico
 - Xoops Theme Demos
 - XoopsDesign
 - XoopsFactory Theme Demos
