@@ -158,4 +158,4 @@ Yet another distinctive feature of XOOPS is the fact that its development is not
 
 Last, but certainly not least, one of XOOPS’ most important assets is its community. Its more than 20 thousand members chat in the forums about every thing imaginable. You can find there comments, complaints, gossip, hacks, suggestions, a few fights but always a strong pulse, the indication of a healthy, vibrant community demanding that XOOPS moves ahead. 
 
-**In December 2015 XOOPS will celebrate its 15 Anniversary. **
+**In December 2015 XOOPS will celebrate its 14 Anniversary. **
