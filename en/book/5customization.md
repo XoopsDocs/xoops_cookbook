@@ -14,8 +14,8 @@ Almost each module has a set of Preferences, where the Admin can select and deci
 
 For hacks, there are several good sources on the XOOPS Website:
 
-- XOOPS FAQ: [Hacks section](http://xoops.org/modules/smartfaq/category.php?categoryid=18)
-- XOOPS Support Forums: [Hacks section](http://xoops.org/modules/newbb/viewforum.php?forum=15)
+- XOOPS FAQ: [Hacks section](https://xoops.org/modules/smartfaq/category.php?categoryid=18)
+- XOOPS Support Forums: [Hacks section](https://xoops.org/modules/newbb/viewforum.php?forum=15)
  
 #### Themes
 
