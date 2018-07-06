@@ -18,7 +18,7 @@ To proceed successfully, the following is required on either a local machine or 
     c. scripting language PHP, either on a Linux or a Windows platform; and
 
 
-2) a downloaded copy of the latest XOOPS version (currently **[2.5.7.1](http://xoops.org/modules/core/)**).
+2) a downloaded copy of the latest XOOPS version (currently **[2.5.7.1](https://xoops.org/modules/core/)**).
 
 In the provided video we'll show you how you can install XOOPS in 10-15 minutes, and do the basic configuration within 20-30 minutes, so the whole installation should not take more than 60 minutes. 
 
